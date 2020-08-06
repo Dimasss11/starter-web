@@ -16,6 +16,8 @@ This is a simple web project, deployement can be run.
 
 ## How To Contribute
 
+Please for this repository and then issue pull request for revie.
+
 ### Copyright
 
 2020 Git. Training.
