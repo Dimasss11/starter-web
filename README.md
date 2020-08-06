@@ -15,3 +15,7 @@ As stated above, the main purpose is to use that.
 This is a simple web project, deployement can be run.
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git. Training.
