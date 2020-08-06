@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ilon Taylor jason@git.trainning @awesome
 
 # THANKS
 
