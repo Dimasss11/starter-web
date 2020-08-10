@@ -20,4 +20,4 @@ Please for this repository and then issue pull request for revie.
 
 ### Copyright
 
-2020 Git. Training.
+2020 Git. Training. Al right reserved.
